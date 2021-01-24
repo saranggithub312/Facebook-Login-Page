@@ -1,0 +1,157 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+
+body{
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+    
+}
+
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px ;
+    
+}
+
+.logo-text{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+
+.login-label{
+    color: #ffffff ;
+    font-size: 11px;
+
+}
+
+.login-controls{
+    margin-left: 115px;
+}
+
+.fa{
+    color: lightblue;
+    font-size: 11px;
+    
+}
+
+.sub-btn{
+    background: #4267b2;
+    color: white;
+    margin-left: 6px;
+    cursor: pointer;
+
+}
+.sub-btn:hover{
+    background: darkblue;
+}
+
+.left-section{
+    width: 58%;
+    float: left;
+    
+
+}
+
+.right-section{
+    width: 42%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+    height: 515px;
+}
+
+.fbimg{
+    padding-left: 162px;
+    padding-top: 0px;
+    width: 531px;
+}
+}
+
+.h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.q{
+    block-size: 25px;
+}
+.w{
+    block-size: 25px;
+}
+
+.e{
+    block-size: 25px;
+    width: 350px;
+    margin-left: 3px;
+    margin-top: 7px;
+}
+.r{
+    block-size: 25px;
+    width: 350px;
+    margin-left: 3px;
+}
+.bday{
+    font-size: 15px;
+    font-family: fantasy;
+    font-style: initial;
+    color: grey;
+    padding-left: 3px;
+}
+.p{
+    border-color: #d2cbcb;
+}
+.img{
+    margin-left: 9px;
+}
+.sex{
+    font-size: 16px;
+    font-family: cursive;
+    color: #47474e;
+}
+.pa{
+    font-size: 11px;
+    color: gray;
+}
+
+.button {
+    background-color: #33753b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -28px;
+    width: 211px;
+    height: 45px;
+    border-color: whitesmoke;
+  }
+
+  .footer{
+    font-size: 12px;
+    padding-left: 3px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+  }
